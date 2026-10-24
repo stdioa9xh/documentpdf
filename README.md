@@ -34,6 +34,6 @@ Test material for the **ApplyEase** multi-agent system (Fetch.ai / ASI Hackathon
 Raw links for the agents:
 
 ```
-https://raw.githubusercontent.com/<owner>/<repo>/main/notification.pdf
-https://raw.githubusercontent.com/<owner>/<repo>/main/notification.json
+https://raw.githubusercontent.com/stdioa9xh/documentpdf/main/notification.pdf
+https://raw.githubusercontent.com/stdioa9xh/documentpdf/main/notification.json
 ```
