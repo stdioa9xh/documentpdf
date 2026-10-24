@@ -1,0 +1,23 @@
+{
+  "_note": "DUMMY applicant for the ApplyEase demo. All values are fictional.",
+  "full_name": "Aarav Sharma",
+  "father_name": "Rajesh Sharma",
+  "mother_name": "Sunita Sharma",
+  "dob": "14/05/1998",
+  "gender": "Male",
+  "category": "OBC",
+  "nationality": "India",
+  "email": "aarav.sharma.dummy@example.com",
+  "mobile": "9876543210",
+  "aadhaar_number": "123456789012",
+  "permanent_address": "Flat 402, Sunshine Apartments, MG Road, Delhi, 110001",
+  "present_address": "Flat 402, Sunshine Apartments, MG Road, Delhi, 110001",
+  "class10_board": "CBSE",
+  "class10_roll": "12345678",
+  "class12_board": "CBSE",
+  "class12_roll": "87654321",
+  "graduation_degree": "B.Tech (Computer Science)",
+  "graduation_year": 2020,
+  "graduation_percentage": 78.5,
+  "highest_qualification_level": "Graduation"
+}
