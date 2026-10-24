@@ -17,7 +17,7 @@ Test material for the **ApplyEase** multi-agent system (Fetch.ai / ASI Hackathon
 **Combined Graduate Level Examination (Demo), 2026** — Advt. No. `ADRB/CGLE-DEMO/2026/01`
 
 - **Posts:** Junior Assistant (1,250) and Data Entry Supervisor (450) — 1,700 total, category-wise split
-- **Apply:** 25/10/2026 → 25/11/2026, only through the [online application form](https://docs.google.com/forms/d/e/1FAIpQLScWbD6ApjwoqGoubmz9i4qrvZNCnt2nNhasSe8kiQ3Feqko7w/viewform)
+- **Apply:** 24/10/2026 → 25/11/2026, only through the [online application form](https://docs.google.com/forms/d/e/1FAIpQLScWbD6ApjwoqGoubmz9i4qrvZNCnt2nNhasSe8kiQ3Feqko7w/viewform)
 - **Age:** 18–27 as on 01/01/2027 · OBC +3 · SC/ST +5 · PwBD +10/13/15 · no relaxation for EWS
 - **Qualification:** Bachelor's degree in any discipline
 - **Documents:** 10, from the Class 10 certificate (the only DOB proof) to the OBC-NCL certificate (central format, issued on or after 01/04/2026)
