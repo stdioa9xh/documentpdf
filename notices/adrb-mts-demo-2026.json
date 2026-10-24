@@ -1,0 +1,128 @@
+{
+  "board": "ApplyEase Demo Recruitment Board (ADRB)",
+  "demo": true,
+  "advertisement_no": "ADRB/MTS-DEMO/2026/01",
+  "notice_date": "24/10/2026",
+  "exam": "Multi-Tasking Staff Examination (Demo), 2026",
+  "posts": [
+    {
+      "post": "Multi-Tasking Staff",
+      "pay_level": "Level 1 (Rs. 18,000–56,900)",
+      "group": "Group C",
+      "vacancies": {
+        "UR": 972,
+        "OBC": 648,
+        "EWS": 240,
+        "SC": 360,
+        "ST": 180
+      },
+      "total": 2400
+    }
+  ],
+  "total_vacancies": 2400,
+  "pwbd_reservation": "4% of vacancies, horizontal, across categories",
+  "dates": {
+    "application_opens": "24/10/2026",
+    "application_closes": "20/11/2026 (23:00 hrs)",
+    "fee_payment_last_date": "21/11/2026 (23:00 hrs)",
+    "correction_window": "23/11/2026 – 24/11/2026",
+    "tier1_exam": "January – February 2027 (tentative)"
+  },
+  "age": {
+    "cutoff_date": "01/01/2027",
+    "min": 18,
+    "max": 25,
+    "born_between": "02/01/2001 and 01/01/2009 (both days inclusive)",
+    "relaxation_years": {
+      "OBC (Non-Creamy Layer)": 3,
+      "SC": 5,
+      "ST": 5,
+      "PwBD (UR)": 10,
+      "PwBD (OBC)": 13,
+      "PwBD (SC/ST)": 15,
+      "Ex-Servicemen": "3 years after deduction of military service"
+    },
+    "ews_note": "No age relaxation for EWS candidates."
+  },
+  "education": "Matriculation (Class 10) pass from a recognised Board, on or before 01/01/2027.",
+  "fee": {
+    "General/OBC/EWS": "Rs. 100",
+    "Women, SC, ST, PwBD, Ex-Servicemen": "Exempted"
+  },
+  "selection": [
+    "Computer Based Examination (100 marks, 60 minutes; Reasoning, General Awareness, Quantitative Aptitude, English)",
+    "Document Verification"
+  ],
+  "application_form_url": "https://docs.google.com/forms/d/e/1FAIpQLScWbD6ApjwoqGoubmz9i4qrvZNCnt2nNhasSe8kiQ3Feqko7w/viewform",
+  "application_form_fields": [
+    "Full Name",
+    "Aadhaar Number",
+    "Gender",
+    "Date of Birth",
+    "Father's Name",
+    "Mother's Name",
+    "10th Examination Board",
+    "Roll Number (10th Standard)",
+    "12th Examination Board",
+    "Roll Number (12th Standard)",
+    "Highest Educational Qualification Level",
+    "Mobile Number",
+    "Email Address",
+    "Permanent Address",
+    "Present Address",
+    "Category",
+    "Nationality"
+  ],
+  "required_documents": [
+    {
+      "document": "Class 10 (Matriculation) certificate / marksheet",
+      "for": "All candidates",
+      "purpose": "Proof of name and date of birth — the only document accepted for date of birth"
+    },
+    {
+      "document": "Aadhaar card (masked — first 8 digits hidden)",
+      "for": "All candidates",
+      "purpose": "Photo identity"
+    },
+    {
+      "document": "OBC-NCL certificate in the Central Government format",
+      "for": "OBC candidates",
+      "purpose": "Reservation and age relaxation; must be issued on or after 01/04/2026 (FY 2026-27)"
+    },
+    {
+      "document": "EWS Income & Asset certificate for FY 2026-27",
+      "for": "EWS candidates",
+      "purpose": "Reservation"
+    },
+    {
+      "document": "SC / ST certificate from the competent authority",
+      "for": "SC/ST candidates",
+      "purpose": "Reservation, age relaxation and fee exemption"
+    },
+    {
+      "document": "Disability certificate (40% or more)",
+      "for": "PwBD candidates",
+      "purpose": "Reservation and relaxation"
+    },
+    {
+      "document": "Recent passport-size photograph and signature",
+      "for": "All candidates",
+      "purpose": "Admit card and identity"
+    },
+    {
+      "document": "Name-change affidavit / Gazette notification",
+      "for": "Only if the name differs across documents",
+      "purpose": "Proof that the names refer to the same person"
+    }
+  ],
+  "important_instructions": [
+    "Enter your name, father's name, mother's name and date of birth EXACTLY as recorded in the Class 10 certificate.",
+    "If your name differs between documents (e.g. Class 10 vs Aadhaar), produce a notarised affidavit or Gazette notification at Document Verification; candidature is otherwise liable to be cancelled.",
+    "Category status is determined as on the closing date of the online application (20/11/2026).",
+    "Only one application per candidate. Multiple applications will be rejected.",
+    "Candidates are advised to keep originals and two self-attested copies of every document ready for Document Verification."
+  ],
+  "id": "adrb-mts-demo-2026",
+  "min_education": "10th",
+  "disclaimer": "DEMO DOCUMENT — The 'ApplyEase Demo Recruitment Board' is fictional. This is not a Government notification and no recruitment is being conducted. Created to demonstrate the ApplyEase multi-agent system (Fetch.ai / ASI Hackathon). Use only dummy data in the linked form."
+}

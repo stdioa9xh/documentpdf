@@ -156,6 +156,8 @@ def build_pdf(path: str) -> None:
         table([["Category", "Fee"]] + [[k, v] for k, v in N["fee"].items()], [95 * mm, 70 * mm]),
         Paragraph("7. Scheme of Selection", H2),
         *[p(f"({chr(97 + i)}) {s}") for i, s in enumerate(N["selection"])],
+        *([Paragraph("Physical Standards & Physical Efficiency Test", H2)]
+          + [p(f"• {x}") for x in N["physical_standards"]] if N.get("physical_standards") else []),
         Paragraph("8. How to Apply", H2),
         p("Apply only through the official online application form:"),
         p(f'<link href="{FORM_URL}" color="blue"><u>{FORM_URL}</u></link>'),

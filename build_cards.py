@@ -33,6 +33,13 @@ JOBS = [  # id, sector, title, subtitle, chip
     ("upsc-cds-i-2027", "defence", "UPSC CDS", "Combined Defence Services · Graduate", "Level 10"),
     ("upsc-cse-2027", "upsc", "UPSC Civil Services", "IAS · IPS · IFS and allied services", "Level 10 onwards"),
     ("adrb-cgle-demo-2026", "demo", "ADRB CGLE 2026", "Demo board · notification PDF + Google Form", "1,700 posts · apply via Agent 2"),
+    ("adrb-mts-demo-2026", "demo", "ADRB MTS 2026", "Demo board · 10th pass · age 18–25", "2,400 posts · apply via Agent 2"),
+    ("adrb-constable-demo-2026", "demo", "ADRB Constable (GD)", "Demo board · 10th pass · physical test", "3,000 posts · apply via Agent 2"),
+    ("adrb-ldc-demo-2026", "demo", "ADRB LDC & DEO 2026", "Demo board · 12th pass · typing test", "1,800 posts · apply via Agent 2"),
+    ("adrb-tech-demo-2026", "demo", "ADRB Junior Technician", "Demo board · Engineering diploma", "900 posts · apply via Agent 2"),
+    ("adrb-aso-demo-2026", "demo", "ADRB ASO 2026", "Demo board · Graduate · age 20–30", "600 posts · apply via Agent 2"),
+    ("adrb-senior-asst-demo-2026", "demo", "ADRB Senior Assistant", "Demo board · Graduate · age 25–40", "300 posts · apply via Agent 2"),
+    ("adrb-research-demo-2026", "demo", "ADRB Research Officer", "Demo board · Post-graduate · age 21–35", "150 posts · apply via Agent 2"),
     ("career-ladder", "ladder", "Career Ladder", "Posts you unlock next — gap, age, attempts", "Tier 2 analysis"),
     ("document-check", "docs", "Check My Documents", "Class 10 vs Aadhaar · certificates · affidavit", "Upload with +"),
 ] + [(f"sector-{k}", k, v[0].split(" · ")[0].title(), "Government recruitment", "ApplyEase") for k, v in SECTORS.items()
